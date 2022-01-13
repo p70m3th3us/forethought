@@ -1,9 +1,11 @@
 # forethought
+### for educational use only
+
 minecraft 1.18 ease of use closet hack/ghost mod (fabric)
 
-###features:
+### features:
 - none
-###planned additions:
+### planned additions:
 - autotool
 - autoclicker (for afk farms)
 - better xray
@@ -24,4 +26,6 @@ minecraft 1.18 ease of use closet hack/ghost mod (fabric)
 - freelook
 - see other players health
 - see parts of other players inventory
-- chest/shulker steal (take items from storage quickly at the press of a button)
+- chest/shulker steal (take items from storage quickly at the press of a button, not automatically)
+
+the goal is to have as many things as possible be automatic, so few things have to be turned on or off. the things that shouldn't be automatic are meant to be made as easy to use as possible. ui should be as clean as possible, unlike normal hacked clients. nothing should be detectable by the server.
